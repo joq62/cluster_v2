@@ -7,6 +7,6 @@
 	  [cluster_app,cluster_sup,cluster]},
 {registered,[cluster]},
 {applications, [kernel,stdlib]},
-{mod, {iaas_app,[]}},
+{mod, {cluster_app,[]}},
 {start_phases, []}
 ]}.
